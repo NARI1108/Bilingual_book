@@ -16,3 +16,52 @@
        Applicable on all Android operating systems
           
   </ul>
+    <code><strong>The purpose of making this application is to familiarize with the following:</strong></code>
+
+<ul>
+    <li>
+          <code><strong>The purpose of making this application is to familiarize with the following:</strong></code>
+
+<ul>
+    <li>
+         Creating option menu.
+    </li>
+    <li>
+         Creating a splash screen and making the program full screen.
+    </li>
+    <li>
+         Creating a multilingual program.
+    </li>
+    <li>
+         Familiarity with Intents and transition between activities.
+    </li>
+    <li>
+         Getting to know Calendar and how to use it in the program.
+    </li>
+    <li>
+         Familiarity with another Java command (Switch command).
+    </li>
+    <li>
+         Getting to know AlertDialog training.
+    </li>
+</ul>
+    </li>
+    <li>
+         Getting to know the Style file and removing the action bar.
+    </li>
+    <li>
+         Learning to beautify buttons.
+    </li>
+    <li>
+         Familiarity with Intents and transition between activities.
+    </li>
+    <li>
+         Getting to know Calendar and how to use it in the program.
+    </li>
+    <li>
+         Familiarity with another Java command (Switch command).
+    </li>
+    <li>
+         Getting to know AlertDialog training.
+    </li>
+</ul>
