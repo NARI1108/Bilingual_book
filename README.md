@@ -33,4 +33,7 @@
     <li>
          Creating a Scroll view in the program
     </li>
+  <li>
+         Creating the Assets folder and changing the font of the texts
+  </li>
 </ul>
