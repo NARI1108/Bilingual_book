@@ -1,4 +1,61 @@
 <resources>
     <string name="app_name">Bilingual book</string>
     <string name="text_title">Index Of Stories</string>
-</resources>
+
+        <string name="chart_1">"The Farmer's Donkey"</string>
+
+        <string name="story1">"One day a farmer's donkey fell down into a well. The animal cried piteously for hours as the farmer tried to figure out what to do. Finally he decided the animal was old, and the well needed to be covered up anyway; it just wasn't worth it to retrieve the donkey. He invited all his neighbors to shovel dirt into the well. At first, the donkey realized what was happening and cried horribly. Then, to everyone's amazement, he quieted down.
+A few shovel loads later, the farmer finally looked down the well, and was astonished at what he saw. With every shovel of dirt that hit his back, the donkey was doing something amazing. He would shake it off and take a step up. As the farmer's neighbors continued to shovel dirt on top of the animal, he would shake it off and take a step up. Pretty soon, everyone was amazed as the donkey stepped up over the edge of the well and trotted off!
+"</string>
+        <string name="chart_2">"The ugly duckling"</string>
+        <string name="story2_duckling">"Mummy Duck lived on a farm. In her nest, she had five little eggs and one big egg. One day, the five little eggs started to crack. Tap, tap, tap! Five pretty, yellow baby ducklings came out.
+Then the big egg started to crack. Bang, bang, bang! One big, ugly duckling came out. ‘That’s strange,’ thought Mummy Duck.
+Nobody wanted to play with him. ‘Go away,’ said his brothers and sisters. ‘You’re ugly!’
+The ugly duckling was sad. So he went to find some new friends.
+‘Go away!’ said the pig. ‘Go away!’ said the sheep. ‘Go away!’ said the cow. ‘Go away!’ said the horse.
+No one wanted to be his friend. It started to get cold. It started to snow! The ugly duckling found an empty barn and lived there. He was cold, sad and alone.
+Then spring came. The ugly duckling left the barn and went back to the pond.
+He was very thirsty and put his beak into the water. He saw a beautiful, white bird! ‘Wow!’ he said. ‘Who’s that?’
+‘It’s you,’ said another beautiful, white bird.
+‘Me? But I’m an ugly duckling.’
+‘Not any more. You’re a beautiful swan, like me. Do you want to be my friend?’
+‘Yes,’ he smiled.
+All the other animals watched as the two swans flew away, friends forever
+"</string>
+
+        <string name="chart_3">"Isaac Newton"</string>
+        <string name="story3_Newton">"Isaac Newton was born in Lincolnshire, England in 1643, where he grew up on a farm. When he was a boy, he made lots of brilliant inventions like a windmill to grind corn, a water clock and a sundial. However, Isaac didn’t get brilliant marks at school.
+When he was 18, Isaac went to study at Cambridge University. He was very interested in physics, mathematics and astronomy. But in 1665 the Great Plague, which was a terrible disease, spread in England, and Cambridge University had to close down. Isaac returned home to the farm.
+Isaac continued studying and experimenting at home. One day he was drinking a cup of tea in the garden. He saw an apple fall from a tree.
+‘Why do apples fall down instead of up?’
+From this, he formed the theory of gravity. Gravity is an invisible force which pulls objects towards the Earth and keeps the planets moving around the Sun.
+Isaac was fascinated by light. He discovered that white light is in fact made up of all the colours of the rainbow. Isaac also invented a special reflecting telescope, using mirrors. It was much more powerful than other telescopes.
+Isaac made another very important discovery, which he called his ‘Three Laws of Motion’. These laws explain how objects move. Isaac’s laws are still used today for sending rockets into space.
+Thanks to his discoveries, Isaac became rich and famous. However, he had a bad temper and often argued with other scientists.
+‘You stole my discovery!’
+Sir Isaac Newton died in 1727 aged 85. He was buried along with English kings and queens in Westminster Abbey in London. He was one of the greatest scientists and mathematicians who has ever lived.
+"</string>
+
+        <string name="chart_4">"Harry’s feet"</string>
+        <string name="story4_Harry">"One of Harry’s feet was bigger than the other. “I can never find boots and shoes for my feet,” he said to his friend Dick.
+“Why don’t you go to a shoemaker?” Dick said. “A good one can make you the right shoes.”
+“I’ve never been to a shoemaker,” Harry said. “Aren’t they very expensive?”
+“No,” Dick said, “some of them aren’t. There’s a good one in our village, and he’s quite cheap. Here’s his address.” He wrote something on a piece of paper and gave it to Harry.
+Harry went to the shoemaker in Dick’s village a few days later, and the shoemaker made him some shoes.
+Harry went to the shop again a week later and looked at the shoes. Then he said to the shoemaker angrily, “You’re a silly man! I said, “Make one shoe bigger than the other,” but you’ve made one smaller than the other!”
+
+"</string>
+
+        <string name="chart_5">"EAGLES IN A STORM"</string>
+        <string name="chart_6">"The cowboy"</string>
+        <string name="chart_7">"The purpose of life"</string>
+        <string name="chart_8">"The beginner Doctor "</string>
+        <string name="chart_9">"Turtle and Peacock"</string>
+        <string name="index_of_stories">INDEX OF STORIES</string>
+        <string name="about_us">About us</string>
+        <string name="help">Help</string>
+        <string name="change_lan">Change language</string>
+        <string name="coming_soon">Coming Soon</string>
+
+    </resources>
+
