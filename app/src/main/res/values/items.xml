@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="items_array">
+        <item>@string/chart_1</item>
+        <item>@string/chart_2</item>
+        <item>@string/chart_3</item>
+        <item>@string/chart_4</item>
+        <item>@string/chart_5</item>
+        <item>@string/chart_6</item>
+        <item>@string/chart_7</item>
+        <item>@string/chart_8</item>
+        <item>@string/chart_9</item>
+    </array>
+</resources>
