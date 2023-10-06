@@ -53,9 +53,10 @@ Harry went to the shop again a week later and looked at the shoes. Then he said 
         <string name="chart_9">"Turtle and Peacock"</string>
         <string name="index_of_stories">INDEX OF STORIES</string>
         <string name="about_us">About us</string>
-        <string name="help">Help</string>
+        <string name="guide_book">Help</string>
         <string name="change_lan">Change language</string>
         <string name="coming_soon">Coming Soon</string>
+        <string name="hello_world">hello world</string>
 
     </resources>
 

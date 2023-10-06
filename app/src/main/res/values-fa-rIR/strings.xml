@@ -71,8 +71,8 @@
     <string name="chart_9">"طاووس و لاكپشت"</string>
     <string name="index_of_stories">لیست داستانها</string>
     <string name="about_us">درباره ما</string>
-    <string name="help">راهنما</string>
+    <string name="guide_book">راهنما</string>
     <string name="change_lan">تغییر زبان</string>
     <string name="coming_soon">به زودی اضافه خواهد شد</string>
-
+    <string name="hello_world">سلام دنیا</string>
 </resources>
