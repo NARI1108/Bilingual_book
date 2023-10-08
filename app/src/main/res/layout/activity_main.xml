@@ -22,5 +22,5 @@
         android:layout_marginRight="8dp"
         android:layout_marginLeft="8dp"
         android:divider="@color/purple_200"
-        android:dividerHeight="4dp"/>
+        android:dividerHeight="4dp" />
 </RelativeLayout>

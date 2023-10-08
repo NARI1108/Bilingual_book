@@ -12,17 +12,21 @@
         android:theme="@style/Theme.BilingualBook"
         tools:targetApi="31">
         <activity
+            android:name=".story"
+            android:exported="false" />
+        <activity
             android:name=".Splash_Screen"
             android:exported="true"
             android:theme="@style/fullScreen.">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-                <category android:name="android.intent.category.LAUNCHER"/>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name=".MainActivity"
-            android:exported="false"/>
+            android:exported="false" />
     </application>
 
 </manifest>
