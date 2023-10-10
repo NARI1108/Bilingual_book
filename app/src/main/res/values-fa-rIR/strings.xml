@@ -75,4 +75,6 @@
     <string name="change_lan">تغییر زبان</string>
     <string name="coming_soon">به زودی اضافه خواهد شد</string>
     <string name="hello_world">سلام دنیا</string>
+    <string name="test_text">متن تست</string>
+    <string name="story_name">نام داستان</string>
 </resources>
