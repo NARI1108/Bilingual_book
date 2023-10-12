@@ -12,7 +12,7 @@ public class Splash_Screen extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash_screen);
-        //This code snippet will show our intro page for a few seconds.
+//        This code snippet will show our intro page for a few seconds.
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
