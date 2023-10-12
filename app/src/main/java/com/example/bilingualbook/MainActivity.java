@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         findViews();
         typeFace();
-
+        arrayItems();
         adapter();
         click();
     }
@@ -66,7 +66,18 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onCreateOptionsMenu(menu);
     }
-
+        public void arrayItems(){
+//        Array quantization of story list.
+        array_items[0] = getResources().getString(R.string.chart_1);
+        array_items[1] = getResources().getString(R.string.chart_2);
+        array_items[2] = getResources().getString(R.string.chart_3);
+        array_items[3] = getResources().getString(R.string.chart_4);
+        array_items[4] = getResources().getString(R.string.chart_5);
+        array_items[5] = getResources().getString(R.string.chart_6);
+        array_items[6] = getResources().getString(R.string.chart_7);
+        array_items[7] = getResources().getString(R.string.chart_8);
+        array_items[8] = getResources().getString(R.string.chart_9);
+    }
     public void click(){
 //        Defining click event for view list items.
         list_View.setOnItemClickListener(new AdapterView.OnItemClickListener() {
