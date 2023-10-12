@@ -66,6 +66,27 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onCreateOptionsMenu(menu);
     }
+//       The click method on each of the menu items.
+    @Override
+    public boolean onOptionsItemSelected(@NonNull MenuItem item){
+//        It takes the ID of each item to identify them.
+        int id = item.getItemId();
+//        By typing a conditional switch case command, we specify what to do by clicking on each item.
+        switch (id){
+            case 1: new AlertDialog.Builder(this).setTitle("about us").setMessage(getResources().getString(R.string.hello_world)).show();
+                break;
+            case 2:
+                Toast.makeText(getApplicationContext(),getResources().getString(R.string.guide_book), Toast.LENGTH_SHORT).show();
+                break;
+            case 4: setLocal("EN");
+                startActivity(new Intent(MainActivity.this,MainActivity.class)); finish();
+                break;
+            case 5: setLocal("FA");
+                startActivity(new Intent(MainActivity.this,MainActivity.class)); finish();
+                break;
+        }
+        return super.onOptionsItemSelected(item);
+    }
         public void arrayItems(){
 //        Array quantization of story list.
         array_items[0] = getResources().getString(R.string.chart_1);
