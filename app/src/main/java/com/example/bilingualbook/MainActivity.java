@@ -34,9 +34,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         findViews();
         typeFace();
-        
-        adapter();
 
+        adapter();
+        click();
     }
 //    Connecting an XML layer to this main layer (Main Activity.java).
     public void findViews(){
@@ -67,6 +67,23 @@ public class MainActivity extends AppCompatActivity {
         return super.onCreateOptionsMenu(menu);
     }
 
+    public void click(){
+//        Defining click event for view list items.
+        list_View.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
+//             Because only 4 stories have been completed, we made a condition that if the 4th story is clicked on, show a message to the user.
+               if(position<4){
+                   intent = new Intent(MainActivity.this,story.class);
+//                 Transferring the position of each item to the next activity to identify the owners.
+                   intent.putExtra("pos",position);
+                   startActivity(intent);
+               }else {
+                   Toast.makeText(getApplicationContext(), getResources().getString(R.string.coming_soon), Toast.LENGTH_SHORT).show();
+               }
+            }
+        });
+    }
 //    The method of changing the locale of the program to change the language of the app to other languages.
     private void setLocal(String language){
         Locale myLocale = new Locale(language);
