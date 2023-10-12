@@ -21,13 +21,29 @@ public class story extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_story);
+        findViews();
         titleList();
         storyList();
         imageList();
-      
+        setting();
     }
-
-
+    public void setting() {
+//      Setting the title image and text of each story according to the position we received.
+        position = getIntent().getIntExtra("pos", 0);
+        txt_title.setText(title_list[position]);
+        txt_show.setText(story_list[position]);
+        if (image_list[position] == -1) {
+            img_show.setVisibility(View.GONE);
+        }else {
+            img_show.setBackgroundResource(image_list[position]);
+        }
+    }
+//    Creating this method to connect views to this activity.
+    public void findViews(){
+        txt_title = findViewById(R.id.txt_title);
+        txt_show  = findViewById(R.id.txt_show);
+        img_show  = findViewById(R.id.img_show);
+    }
 //        Creating a method to value the array of story title.
     public void titleList(){
 //        Array quantization of story title.
