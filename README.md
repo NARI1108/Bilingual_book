@@ -6,7 +6,6 @@
 </h3>
 
 ![Screenshot (1744)](https://github.com/NARI1108/Bilingual_book/assets/125409221/bf417489-3f6b-49fb-a358-f4c9aca26b9e) 
-
  ![Screenshot (1746)](https://github.com/NARI1108/Bilingual_book/assets/125409221/ba9096d0-03f1-4929-abe6-285bd6f9fe8d)
 
 
