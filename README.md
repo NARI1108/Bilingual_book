@@ -12,6 +12,8 @@
 
 ## ✨Bilingual Book Vidoe
 
+[Story Book.zip](https://github.com/NARI1108/Bilingual_book/files/12898463/Story.Book.zip)
+
 ## <code><strong>About App</strong></code> ##
 
 ## <img align="left" alt="GIF" height="50px" src="https://www.toptimenet.com/images/setting.gif"/>  
