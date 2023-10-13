@@ -2,9 +2,9 @@
   
   Welcome to my Readme!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR195ms_7cFT15Erj1poJ8WxMxS1I16GXJ6Lg&usqp=CAU"  width="750" height="250">
 </h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR195ms_7cFT15Erj1poJ8WxMxS1I16GXJ6Lg&usqp=CAU"  width="750" height="250">
+
 
 ## ✨Bilingual Book Vidoe
 
