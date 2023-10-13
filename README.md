@@ -5,6 +5,9 @@
   
 </h3>
 
+![Screenshot (1744)](https://github.com/NARI1108/Bilingual_book/assets/125409221/bf417489-3f6b-49fb-a358-f4c9aca26b9e)
+
+
 ## ✨Bilingual Book Vidoe
 
 ## <code><strong>About App</strong></code> ##
