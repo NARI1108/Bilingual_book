@@ -2,10 +2,17 @@
   
   Welcome to my Readme!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
+  
 </h3>
 
+
+![Screenshot (1744)](https://github.com/NARI1108/Bilingual_book/assets/125409221/bf417489-3f6b-49fb-a358-f4c9aca26b9e) 
+ ![Screenshot (1746)](https://github.com/NARI1108/Bilingual_book/assets/125409221/ba9096d0-03f1-4929-abe6-285bd6f9fe8d)
+
+
 ## ✨Bilingual Book Vidoe
+
+[Story Book.zip](https://github.com/NARI1108/Bilingual_book/files/12898463/Story.Book.zip)
 
 ## <code><strong>About App</strong></code> ##
 
