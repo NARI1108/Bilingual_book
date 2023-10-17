@@ -73,10 +73,9 @@ public class MainActivity extends AppCompatActivity {
         int id = item.getItemId();
 //        By typing a conditional switch case command, we specify what to do by clicking on each item.
         switch (id){
-            case 1: new AlertDialog.Builder(this).setTitle("about us").setMessage(getResources().getString(R.string.hello_world)).show();
+            case 1: setContentView(R.layout.activity_about_us);
                 break;
-            case 2:
-                Toast.makeText(getApplicationContext(),getResources().getString(R.string.guide_book), Toast.LENGTH_SHORT).show();
+            case 2: setContentView(R.layout.activity_help);
                 break;
             case 4: setLocal("EN");
                 startActivity(new Intent(MainActivity.this,MainActivity.class)); finish();
