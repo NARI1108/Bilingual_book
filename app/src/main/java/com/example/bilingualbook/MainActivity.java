@@ -1,9 +1,9 @@
 package com.example.bilingualbook;
 
 import androidx.annotation.NonNull;
-import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.app.AlertDialog;
 import android.content.Intent;
 import android.content.res.Configuration;
 import android.content.res.Resources;
@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
         switch (id){
             case 1: setContentView(R.layout.activity_about_us);
                 break;
-            case 2: setContentView(R.layout.activity_help);
+            case 2: new AlertDialog.Builder(this).setTitle(R.string.guide_book).setMessage(R.string.message_contact_us).show();
                 break;
             case 4: setLocal("EN");
                 startActivity(new Intent(MainActivity.this,MainActivity.class)); finish();

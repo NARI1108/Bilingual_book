@@ -71,10 +71,13 @@
     <string name="chart_9">"طاووس و لاكپشت"</string>
     <string name="index_of_stories">لیست داستانها</string>
     <string name="about_us">درباره ما</string>
-    <string name="guide_book">راهنما</string>
+    <string name="guide_book">تماس با ما</string>
     <string name="change_lan">تغییر زبان</string>
     <string name="coming_soon">به زودی اضافه خواهد شد</string>
-    <string name="hello_world">سلام دنیا</string>
     <string name="test_text">متن تست</string>
     <string name="story_name">نام داستان</string>
+    <string name="about_us_txt">شرکت لالی پاپ یک شرکتی در زمینه تولید
+        اپ های اندرویدی می باشد. این شرکت با تیم جوان و کارآزموده خود اقدام به خلاقیت می نمایید.
+        از شما کاربران عزیز مچکریم از محصولات ما استفاده می کنید.</string>
+    <string name="message_contact_us">" LollipopCompany@gmail.com برای ارتباط با گروه پشتیبانی  می توانید به ایمیل شرکت تماس بگیرید."</string>
 </resources>

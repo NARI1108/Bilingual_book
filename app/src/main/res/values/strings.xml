@@ -53,12 +53,19 @@ Harry went to the shop again a week later and looked at the shoes. Then he said 
     <string name="chart_9">"Turtle and Peacock"</string>
     <string name="index_of_stories">INDEX OF STORIES</string>
     <string name="about_us">About us</string>
-    <string name="guide_book">Help</string>
+    <string name="guide_book">contact us</string>
     <string name="change_lan">Change language</string>
     <string name="coming_soon">Coming Soon</string>
-    <string name="hello_world">hello world</string>
     <string name="test_text">test text</string>
     <string name="story_name">story name</string>
-
+    <string name="about_us_txt">Lollipop company is a company
+        in the field of Android apps production. This company
+        is creative with its young and experienced team. Dear
+        users, thank you for using our products.</string>
+    <string name="message_contact_us">"
+        You can contact the company's
+        email to contact the support group.
+        LollipopCompany@gmail.com"
+    </string>
 </resources>
 
