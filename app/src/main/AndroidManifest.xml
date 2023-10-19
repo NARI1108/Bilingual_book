@@ -12,6 +12,13 @@
         android:theme="@style/Theme.BilingualBook"
         tools:targetApi="31">
         <activity
+            android:name=".about_us"
+            android:exported="false"
+            android:theme="@style/fullScreen." />
+        <activity
+            android:name=".help"
+            android:exported="false" />
+        <activity
             android:name=".story"
             android:exported="false" />
         <activity
