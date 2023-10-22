@@ -12,7 +12,6 @@
 
 ## ✨Bilingual Book Vidoe
 
-[Story Book.zip](https://github.com/NARI1108/Bilingual_book/files/12898463/Story.Book.zip)
 
 ## <code><strong>About App</strong></code> ##
 
