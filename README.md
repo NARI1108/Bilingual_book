@@ -23,10 +23,7 @@ In this app, we tried to learn new things that are in the list below.
         
        Applicable on all Android operating systems
           
-  </ul>
-    
-  
-    
+  </ul>  
           <code><strong>The purpose of making this application is to familiarize with the following:</strong></code>
 <ul>
     <li>
